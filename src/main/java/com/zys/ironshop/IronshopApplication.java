@@ -10,4 +10,9 @@ public class IronshopApplication {
 		SpringApplication.run(IronshopApplication.class, args);
 	}
 
+//	@GetMapping("/demo")
+//	public String demo() {
+//		return "Hello World!";
+//	}
+
 }
